@@ -38,7 +38,6 @@ function renderFullData() {
   userTable.append(tbody);
 
   body.append(userTable);
-  console.log(data);
 }
 
 export default renderFullData;
